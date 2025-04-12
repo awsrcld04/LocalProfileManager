@@ -218,7 +218,7 @@ namespace LocalProfileManager
 
         static void funcPrintParameterSyntax()
         {
-            Console.WriteLine("LocalProfileManager v1.0 (c) 2011 SystemsAdminPro.com");
+            Console.WriteLine("LocalProfileManager v1.0");
             Console.WriteLine();
             Console.WriteLine("Parameter syntax:");
             Console.WriteLine();
