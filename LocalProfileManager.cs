@@ -800,8 +800,6 @@ namespace LocalProfileManager
             {
                 OSCaptionVersion varOSCaptionVersion = new OSCaptionVersion();
 
-                funcProgramRegistryTag("LocalProfileManager");
-
                 varOSCaptionVersion = funcCheckOSCaptionVersion(varOSCaptionVersion);
 
                 if (objCMDArguments2.strSwitch == "-list")
